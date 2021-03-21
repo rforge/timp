@@ -1,0 +1,12 @@
+NOTICE: TIMP Development has moved to Github
+
+TIMP development has moved to GitHub. Check it out here: https://github.com/glotaran/TIMP
+Last version available from R-Forge: TIMP 1.13.2 (2019-03-15)
+
+The last commit(s) in sync between r-forge and github:
+https://github.com/glotaran/TIMP/commit/c9496e9c18ed1a6712572ae6278aab6ab2e6adfd 
+git-svn-id: svn+ssh://svn.r-forge.r-project.org/svnroot/timp@97 edb9625f-4e0d-4859-8d74-9fd3b1da38cb
+with merge commit 3b2b23457d050f29003273c5e71832948c3b0fd3
+https://github.com/glotaran/TIMP/commit/3b2b23457d050f29003273c5e71832948c3b0fd3
+
+ALL subsequent development will take place on Github using only git.
